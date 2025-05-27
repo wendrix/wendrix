@@ -1,15 +1,15 @@
 <div align="center">
-<img width="80%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1200&color=ffffff&center=true&width=435&lines=wetroxead">
+<img width="80%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1200&color=ffffff&center=true&width=435&lines=wendrix">
 </div>
 
 <div align="center">
-   <img width="25%" src="https://komarev.com/ghpvc/?username=wetroxeads&color=070000">
+   <img width="25%" src="https://komarev.com/ghpvc/?username=wendrix&color=070000">
 </div>
 
 #
 
 <div align="center">
-  <img src="https://lanyard.kyrie25.me/api/183944741291950080?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness" width="100%" style="vertical-align: top;">
+  <img src="https://lanyard.kyrie25.me/api/1364256036625711254?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness" width="100%" style="vertical-align: top;">
 
 # My Stats
 <div align="center">
