@@ -9,7 +9,7 @@
 #
 
 <div align="center">
-  <img src="https://lanyard.kyrie25.me/api/1364256036625711254?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness" width="100%" style="vertical-align: top;">
+  <img src="https://lanyard.kyrie25.dev/api/312062402273345537?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idle" width="100%" style="vertical-align: top;">
 
 # My Stats
 <div align="center">
